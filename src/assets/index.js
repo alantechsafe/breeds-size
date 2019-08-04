@@ -5,7 +5,8 @@ import disclaimerPt from "./disclaimer-br.webp";
 import disclaimerEn from "./disclaimer-en.webp";
 import returnBtnEn from "./return-btn-en.webp";
 import returnBtnPt from "./return-btn.webp";
-import dropdownBallonPressed from "./dropdown-ballon-pressed.webp";
+import dropdownBallon from "./dropdown-balloon.webp";
+import dropdownBallonEn from "./dropdown-balloon-en.webp";
 
 const images = {
     logo,
@@ -15,7 +16,8 @@ const images = {
     disclaimerEn,
     returnBtnEn,
     returnBtnPt,
-    dropdownBallonPressed
+    dropdownBallon,
+    dropdownBallonEn
 }
 
 export default images;
