@@ -11,7 +11,6 @@ const HalfScreen = props => {
 
     const { width, language, btnImg, handleExpand } = props;
     const t = Lang[language];        
-        console.log(t)
         return ( 
             <div 
                 onClick={handleExpand} 
@@ -22,7 +21,7 @@ const HalfScreen = props => {
                     <p className="text">{language.toUpperCase()}</p>
                     <h2 className="title">{t['not sure']} <br /> {t['about size']}</h2>
                     <p className="text">{t['we help']}</p>
-                    <img alt="" src={images[btnImg]} />
+                    <img alt="" className="btn" src={images[btnImg]} />
                 </div>
             </div> 
          );
