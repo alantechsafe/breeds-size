@@ -19,6 +19,9 @@
         -webkit-tap-highlight-color: transparent;
         background-color: #fff;
         border-radius: 4px;
+        @media (max-width : 550px) {
+            left: 0;
+        }
     }
     .list-container-scroll{
         max-height: 200px;
