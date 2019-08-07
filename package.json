@@ -2,7 +2,7 @@
   "name": "size-dog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "https://alantechsafe.github.io/breeds-size/",
   "dependencies": {
     "i18next": "^17.0.7",
     "node-sass": "^4.12.0",
