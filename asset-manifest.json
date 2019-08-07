@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/breeds-size/static/css/main.2022854d.chunk.css",
+    "main.js": "/breeds-size/static/js/main.a5371455.chunk.js",
+    "main.js.map": "/breeds-size/static/js/main.a5371455.chunk.js.map",
+    "runtime~main.js": "/breeds-size/static/js/runtime~main.d388b1a2.js",
+    "runtime~main.js.map": "/breeds-size/static/js/runtime~main.d388b1a2.js.map",
+    "static/js/2.1c0ddba5.chunk.js": "/breeds-size/static/js/2.1c0ddba5.chunk.js",
+    "static/js/2.1c0ddba5.chunk.js.map": "/breeds-size/static/js/2.1c0ddba5.chunk.js.map",
+    "index.html": "/breeds-size/index.html",
+    "precache-manifest.60dd3a8c475b24d4b18f3c8466456d1f.js": "/breeds-size/precache-manifest.60dd3a8c475b24d4b18f3c8466456d1f.js",
+    "service-worker.js": "/breeds-size/service-worker.js",
+    "static/css/main.2022854d.chunk.css.map": "/breeds-size/static/css/main.2022854d.chunk.css.map",
+    "static/media/button-en.webp": "/breeds-size/static/media/button-en.4c08bea9.webp",
+    "static/media/button-pt.webp": "/breeds-size/static/media/button-pt.f6f2c08f.webp",
+    "static/media/disclaimer-br-breed.webp": "/breeds-size/static/media/disclaimer-br-breed.2dc8f837.webp",
+    "static/media/disclaimer-br.webp": "/breeds-size/static/media/disclaimer-br.dfe3185b.webp",
+    "static/media/disclaimer-en-breed.webp": "/breeds-size/static/media/disclaimer-en-breed.6435f57b.webp",
+    "static/media/disclaimer-en.webp": "/breeds-size/static/media/disclaimer-en.3ff32e6f.webp",
+    "static/media/dropdown-balloon-en.webp": "/breeds-size/static/media/dropdown-balloon-en.a3d0445a.webp",
+    "static/media/dropdown-balloon.webp": "/breeds-size/static/media/dropdown-balloon.c809cbe9.webp",
+    "static/media/logo-horizontal-branco.webp": "/breeds-size/static/media/logo-horizontal-branco.82f8fe21.webp",
+    "static/media/return-btn-2-en.webp": "/breeds-size/static/media/return-btn-2-en.dcfbcccc.webp",
+    "static/media/return-btn-2.webp": "/breeds-size/static/media/return-btn-2.c2ec6c6d.webp",
+    "static/media/return-btn-en.webp": "/breeds-size/static/media/return-btn-en.3ed0da3f.webp",
+    "static/media/return-btn.webp": "/breeds-size/static/media/return-btn.348b4f16.webp",
+    "static/media/table-background-en.webp": "/breeds-size/static/media/table-background-en.947f7b34.webp",
+    "static/media/table-background.webp": "/breeds-size/static/media/table-background.0230768e.webp",
+    "static/media/td-bg-1-en.webp": "/breeds-size/static/media/td-bg-1-en.f456ad21.webp",
+    "static/media/td-bg-1.webp": "/breeds-size/static/media/td-bg-1.70a7470e.webp"
+  }
+}
