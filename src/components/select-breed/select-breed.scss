@@ -1,0 +1,105 @@
+#select-breed{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+
+    .list-container{
+        overflow: hidden;
+        margin-top: -20px;
+        z-index: 2;
+        position: absolute;
+        text-align: center!important;
+        font-weight: 700;
+        color: #0071bc;
+        left: 70px;
+        width: 100%;
+        max-width: 420px;
+        -webkit-tap-highlight-color: transparent;
+        background-color: #fff;
+        border-radius: 4px;
+        @media (max-width : 550px) {
+            left: 0;
+        }
+    }
+    .list-container-scroll{
+        max-height: 200px;
+        overflow-y: auto;
+        width: 100%;
+    }
+
+    .list-item{
+        display: block;
+        cursor: pointer;
+        width: 100%;
+        padding: .8em 0;
+        font-weight: 700;
+        color: #0071bc;
+        overflow: hidden;
+        border-bottom: 1px solid #e4e4e4;
+        -webkit-tap-highlight-color: transparent;
+        &:hover{
+            color: #fff;
+            background-color: #0071bc;
+        }
+    }
+
+    #filter-breed{
+        width: 90%;
+        padding: .3em;
+        font-size: 1em;
+    }
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: #fff;
+    }
+
+    .title{
+        font-weight: 700;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 2.2em;
+        margin: 10px;
+        letter-spacing: -1px;
+        max-width: 470px;
+        @media (max-width : 768px) {
+            font-size: 1.4em;    
+        }
+    }
+   
+    .dropdown-baloon-container{
+        width: 100%;
+        max-width: 550px;
+        position: relative;
+    }
+
+    .dropdown-baloon{
+        width: 100%;
+        cursor: pointer;
+    }
+
+    .back-btn{
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        width: 130px;
+        @media (max-width : 768px) {
+            width: 100px;
+        }
+    }
+    
+    .disclaimer{
+        position: absolute;
+        width: 50%;
+        max-width: 250px;
+        right: 20px;
+        bottom: 100px;
+        @media (max-width : 768px) {
+            bottom: 50px;
+        }
+    }
+}

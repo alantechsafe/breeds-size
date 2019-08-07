@@ -1,0 +1,43 @@
+#half-screen{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    transition: all .3s;
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: #fff;
+    }
+    .title{
+        font-weight: 700;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 2.2em;
+        margin: 0px 10px;
+        letter-spacing: -1px;
+        max-width: 470px;
+        @media (max-width : 768px) {
+            font-size: 1.4em;    
+        }
+    }
+    .text{
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 1.2em;
+        margin-bottom: 0px 10px 50px 10px;
+        @media (max-width : 768px) {
+            font-size: 1em;    
+        }
+    }
+    .btn{
+        width: 100%;
+        height: auto;
+        max-width: 300px;
+        @media (max-width : 768px) {
+            width: 165px;
+        }
+    }
+}
