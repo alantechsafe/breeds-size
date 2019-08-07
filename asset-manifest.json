@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/breeds-size/static/css/main.2022854d.chunk.css",
+    "main.css": "/breeds-size/static/css/main.04d39790.chunk.css",
     "main.js": "/breeds-size/static/js/main.a5371455.chunk.js",
     "main.js.map": "/breeds-size/static/js/main.a5371455.chunk.js.map",
     "runtime~main.js": "/breeds-size/static/js/runtime~main.d388b1a2.js",
@@ -8,9 +8,9 @@
     "static/js/2.1c0ddba5.chunk.js": "/breeds-size/static/js/2.1c0ddba5.chunk.js",
     "static/js/2.1c0ddba5.chunk.js.map": "/breeds-size/static/js/2.1c0ddba5.chunk.js.map",
     "index.html": "/breeds-size/index.html",
-    "precache-manifest.60dd3a8c475b24d4b18f3c8466456d1f.js": "/breeds-size/precache-manifest.60dd3a8c475b24d4b18f3c8466456d1f.js",
+    "precache-manifest.7ef911632287ae496f2fe3405f4bf24d.js": "/breeds-size/precache-manifest.7ef911632287ae496f2fe3405f4bf24d.js",
     "service-worker.js": "/breeds-size/service-worker.js",
-    "static/css/main.2022854d.chunk.css.map": "/breeds-size/static/css/main.2022854d.chunk.css.map",
+    "static/css/main.04d39790.chunk.css.map": "/breeds-size/static/css/main.04d39790.chunk.css.map",
     "static/media/button-en.webp": "/breeds-size/static/media/button-en.4c08bea9.webp",
     "static/media/button-pt.webp": "/breeds-size/static/media/button-pt.f6f2c08f.webp",
     "static/media/disclaimer-br-breed.webp": "/breeds-size/static/media/disclaimer-br-breed.2dc8f837.webp",
